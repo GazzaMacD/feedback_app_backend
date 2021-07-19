@@ -1,0 +1,6 @@
+# Backend app
+node_modules/
+
+# Vim stuff
+*.swo
+*.swp
