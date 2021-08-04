@@ -4,3 +4,6 @@ node_modules/
 # Vim stuff
 *.swo
 *.swp
+
+# Project Specific
+project_files/
